@@ -5,7 +5,7 @@ Cybersecurity Researcher | Penetration Tester | CTF Player | Front End Web/App D
 
 - 🔭 I’m currently working on : Projects
 - 🌱 I’m currently learning : Cybersecurity
-- 👯 I’m looking to collaborate on : Windows Exploit Development
+- 👯 I’m looking to collaborate on : Windows Exploit Development and Fuzzing
 - 😄 Pronouns: He/Him 
 
 
