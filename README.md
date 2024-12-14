@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Ishayu
 Welcome to my Profile
 
-Cybersecurity Researcher | Penetration Tester | CTF Player | Front End Web/App Developer | Google Cybersecurity Professional Certificate
+Cybersecurity Researcher | Penetration Tester | CTF Player | Windows Security Researcher | Google Cybersecurity Professional Certificate
 
 - 🔭 I’m currently working on : Projects
 - 🌱 I’m currently learning : Cybersecurity
