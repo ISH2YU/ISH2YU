@@ -4,8 +4,8 @@ Welcome to my Profile
 Cybersecurity Researcher | Penetration Tester | CTF Player | Windows Security Researcher | Google Cybersecurity Professional Certificate
 
 - 🔭 I’m currently working on : Projects
-- 🌱 I’m currently learning : Cybersecurity
-- 👯 I’m looking to collaborate on : Windows Exploit Development and Fuzzing
+- 🌱 I’m currently learning : Malware Analysis , Fuzzing and Windows Red Teaming
+- 👯 I’m looking to collaborate on : Windows Exploit Development, Fuzzing and Malware Analysis 
 - 😄 Pronouns: He/Him 
 
 
