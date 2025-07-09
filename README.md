@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Ishayu
 Welcome to my Profile
 
-(Caution : Not a Developer , Better at breaking security , If I develop something I do it cause it helps me break things )
+Caution : Not a Developer , Better at breaking security , If I develop something I do it cause it helps me break things
 
 Cybersecurity Researcher | Penetration Tester | CTF Player | Windows Security Researcher | Google Cybersecurity Professional Certificate
 
