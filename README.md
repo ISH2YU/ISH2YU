@@ -5,9 +5,10 @@ Caution : Not a Developer , Better at breaking security , If I develop something
 
 Windows Offensive Security Researcher | Fuzzing | AV Evasion | CTF Player | SDR Exploitation | Malware Analysis | Vulnerability Researcher
 
+- 🏆 Smart India Hackathon 2024 Winner - Fuzzing Windows Application ( PDF Reader )
+- 💼 Internship - Security Engineer Intern @ FourCore & Cybersecurity Research Intern @ CoE CNDS Labs , VJTI Mumbai
 - 🔭 I’m currently working on : Projects and Skills in Offsec
-- 🌱 I’m currently learning : Malware Analysis , Fuzzing and Windows Red Teaming
-- 👯 I’m looking to collaborate on : Windows Exploit Development, Fuzzing and Malware Analysis 
+- 👯 I’m looking to collaborate on : Windows Exploit Development, Fuzzing, Malware Analysis and Vulnerability Research ( not in web 🙏)
 - 😄 Pronouns: He/Him 
 
 
