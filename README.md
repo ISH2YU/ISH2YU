@@ -1,11 +1,11 @@
 ## Hi there 👋 I am Ishayu
 Welcome to my Profile
 
-Caution : Not a Developer , Better at breaking security , If I develop something I do it cause it helps me break things
+Caution : Not a Developer , Better at breaking security , If I develop something I do it cause it helps me break and hide things from security
 
-Cybersecurity Researcher | Penetration Tester | CTF Player | Windows Security Researcher | Google Cybersecurity Professional Certificate
+Windows Offensive Security Researcher | Fuzzing | AV Evasion | CTF Player | SDR Exploitation | Malware Analysis | Vulnerability Researcher
 
-- 🔭 I’m currently working on : Projects
+- 🔭 I’m currently working on : Projects and Skills in Offsec
 - 🌱 I’m currently learning : Malware Analysis , Fuzzing and Windows Red Teaming
 - 👯 I’m looking to collaborate on : Windows Exploit Development, Fuzzing and Malware Analysis 
 - 😄 Pronouns: He/Him 
